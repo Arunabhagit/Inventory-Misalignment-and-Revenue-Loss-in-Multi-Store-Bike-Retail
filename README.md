@@ -41,8 +41,31 @@ This project is based on nine datasets that comprehensively represent various as
 Despite increasing foot traffic and expanding store presence, the bike retail chain is experiencing stagnation in revenue growth and inconsistencies in product availability across locations. The management suspects that demand is not being met effectively due to suboptimal inventory distribution and misalignment between regional customer preferences and stocked products. Additionally, high-value products often sit unsold while lower-margin items sell out quickly, creating revenue leakage.
 As a data analyst, your mission is to identify sales bottlenecks, understand customer demand patterns by region, and optimize inventory and staffing strategies across stores to improve profitability, reduce lost sales, and enhance customer satisfaction.
 
+# Analysis & Decision
 
+**Analysis Summary**
 
+**Revenue Decline**: The analysis revealed a significant revenue drop of approximately 70% compared to the previous year. Despite increased foot traffic and store expansion, sales volume remained stagnant.
+
+**Price-Demand Imbalance**: High-priced bikes were consistently overstocked with minimal sales, while medium- and low-priced bikes—despite strong customer demand—were frequently understocked. This reflects poor alignment between pricing strategy and actual demand.
+
+**Inventory Mismanagement**: A severe mismatch was observed between inventory levels and customer orders. Overstocking of low-demand products and understocking of high-demand products, like Pure Cycle, highlighted inefficiencies in inventory planning.
+
+**Store Performance Gap**: One store generated more than double the revenue of the others, which failed to even reach 50% of its sales. This indicates ineffective regional store management and a lack of strategic planning in underperforming locations.
+
+**Geographical Demand Variation**: Orders varied significantly across cities, with some contributing high volumes while others remained under-engaged—suggesting poor market penetration or local inventory mismatch.
+
+**Strategic Decisions**
+
+**Improve Inventory Planning**: Align stock levels with actual demand. Avoid overstocking low-demand brands and ensure sufficient inventory of high-demand products.
+
+**Focus on Price Strategy**: Promote low-demand high-price products through discounts or offers. Prioritize restocking high-demand, affordable bikes to boost sales volume.
+
+**Enhance Store Management**: Balance revenue distribution by increasing store presence in low-order cities and ensuring equal inventory support across locations.
+
+**Customer-Centric Approach**: Implement customer segmentation, gather regular feedback, and monitor cancellations to better understand preferences and improve demand forecasting.
+
+**Data-Driven Supply Chain**: Establish a responsive and efficient supply chain strategy guided by real-time data and regional trends to minimize gaps in the demand-supply cycle.
 
 
 
